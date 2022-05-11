@@ -1,10 +1,6 @@
 <script>
 
   import wordmark from "$svg/wordmark.svg";
-
-  export let keywords;
-  export let current;
-
   export const prerender = true;
 
   const links = [
@@ -34,9 +30,6 @@
   </section>
   <p class="text-center mx-auto text-xs font-mono font-semibold  text-black  whitespace-pre-wrap">
     &lt;/&gt; with Svelte, Tailwind, Google Docs & &lt;3 in Bangalore, IN
-  </p>
-  <p class="text-center text-[0.65rem] leading-snug font-sans font-semibold italic py-4 text-gray-600">
-    Another Thing Srishti Should Have Done But Did Not So We Will Do It
   </p>
 </section>
 
