@@ -14,24 +14,6 @@
     { name: "github", url: "https://github.com/thedivtagguy/" }
   ];
 
-    if(keywords){
-    const keys = [
-      "url",
-      "date",
-      "heading",
-      "desc",
-      "cat",
-      "author",
-      "keyword",
-      "published",
-      "img",
-      "path",
-      "slug",
-      "month",
-      "date"
-    ];
-
-    const external = true;
 </script>
 
 <footer class="max-w-5xl mx-auto bg-white py-4">
