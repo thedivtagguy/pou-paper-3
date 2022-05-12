@@ -18,11 +18,7 @@
                 <p class="font-bold text-3xl mt-4">Sorting Methods</p>
             </div>
             </a>
-            <a href="/categories/algorithms/anonymity">
-            <div class="hover:shadow-lg rounded-lg py-10 flex flex-col items-center justify-center hover:cursor-pointer shadow-sm border bg-gray-200 border-gray-100">
-                <p class="font-bold text-3xl mt-4">Anonymity</p>
-            </div>
-            </a>
+           
             <a href="/categories/algorithms/recommendations">
             <div class="hover:shadow-lg rounded-lg py-10 flex flex-col items-center justify-center hover:cursor-pointer shadow-sm border bg-gray-200 border-gray-100">
                 <p class="font-bold text-3xl mt-4">Recommendations</p>

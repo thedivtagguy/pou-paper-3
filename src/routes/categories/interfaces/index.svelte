@@ -13,21 +13,13 @@
                     <p class="font-bold text-3xl mt-4">Infinite Scroll</p>
                 </div>
             </a>
-            <a href="/categories/interfaces/type">
-            <div class="hover:shadow-lg rounded-lg py-10 flex flex-col items-center justify-center hover:cursor-pointer shadow-sm border bg-gray-200 border-gray-100">
-                <p class="font-bold text-3xl mt-4">Diversity of Type</p>
-            </div>
-            </a>
+          
             <a href="/categories/interfaces/numbers">
             <div class="hover:shadow-lg rounded-lg py-10 flex flex-col items-center justify-center hover:cursor-pointer shadow-sm border bg-gray-200 border-gray-100">
                 <p class="font-bold text-3xl mt-4">Numbers</p>
             </div>
             </a>
-            <a href="/categories/interfaces/agnostic">
-            <div class="hover:shadow-lg rounded-lg py-10 flex flex-col items-center justify-center hover:cursor-pointer shadow-sm border bg-gray-200 border-gray-100">
-                <p class="font-bold text-3xl mt-4">Form Agnostic</p>
-            </div>
-            </a>
+          
          
         </div>
     </div>
