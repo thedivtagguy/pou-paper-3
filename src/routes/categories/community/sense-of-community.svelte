@@ -15,10 +15,8 @@
             What makes all of these platforms addictive and engaging is the constant stream of new content that is always available. Whether it's new photos on Instagram, new tweets on Twitter, or new snaps on Snapchat, there is always something new to see. This constant flow of content keeps users coming back for more, and ultimately creates a very addictive experience.        </p>    
             
       </div>
-      <div class="grid grid-cols-2 grid-rows-2 gap-4 ">
-        <img src="https://c.tenor.com/xOiLHimKDikAAAAC/upvote-reddit.gif" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
-        <img src="https://preview.redd.it/idk4xqlkq7g01.jpg?auto=webp&s=bd4895ac081495f7b7f0addabb59a38562dffa4b" alt="Top down view of walnut card tray with embedded magnets and card groove." class="bg-gray-100 rounded-lg">
-        <img src="https://www.online-tech-tips.com/wp-content/uploads/2020/10/Reddit-Popular-Post-Example.png" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg">
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/en/0/01/RPlace2022.png" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
       </div>
     </div>
   </div>
