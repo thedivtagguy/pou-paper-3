@@ -19,10 +19,8 @@ Posts on Reddit are sorted into different categories depending on how popular th
   
        
       </div>
-      <div class="grid grid-cols-2 grid-rows-2 gap-4 ">
-        <img src="https://c.tenor.com/xOiLHimKDikAAAAC/upvote-reddit.gif" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
-        <img src="https://preview.redd.it/idk4xqlkq7g01.jpg?auto=webp&s=bd4895ac081495f7b7f0addabb59a38562dffa4b" alt="Top down view of walnut card tray with embedded magnets and card groove." class="bg-gray-100 rounded-lg">
-        <img src="https://www.online-tech-tips.com/wp-content/uploads/2020/10/Reddit-Popular-Post-Example.png" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg">
+      <div >
+        <img src="https://i.imgur.com/kVeVOnz.png" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
       </div>
     </div>
   </div>

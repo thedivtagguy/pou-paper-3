@@ -1,5 +1,6 @@
 <script>
 import Categories from "./Categories.svelte";
+import Change from "./Change.svelte";
 import Header from "./Header.svelte";
 </script>
 
@@ -7,4 +8,5 @@ import Header from "./Header.svelte";
 <main class="">
 <Header />
 <Categories />
+<Change />
 </main>

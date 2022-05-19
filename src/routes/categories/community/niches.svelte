@@ -11,10 +11,9 @@
             Reddit is the go-to platform on the internet for niche interests. With over a million active subreddits, there is a subreddit for almost everything. From r/aww to r/gifs, Reddit has something for everyone. What makes Reddit so addictive is the upvote and downvote system. This system allows users to curate the content they see, making it tailored to their interests. For example, if you're interested in cats, you can upvote cat-related content and downvote content that isn't related to cats. This system makes Reddit addicting because it allows users to see content they're actually interested in.
                 </p>       
       </div>
-      <div class="grid grid-cols-2 grid-rows-2 gap-4 ">
-        <img src="https://c.tenor.com/xOiLHimKDikAAAAC/upvote-reddit.gif" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
-        <img src="https://preview.redd.it/idk4xqlkq7g01.jpg?auto=webp&s=bd4895ac081495f7b7f0addabb59a38562dffa4b" alt="Top down view of walnut card tray with embedded magnets and card groove." class="bg-gray-100 rounded-lg">
-        <img src="https://www.online-tech-tips.com/wp-content/uploads/2020/10/Reddit-Popular-Post-Example.png" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg">
+      <div>
+        <img src="https://media.sproutsocial.com/uploads/2020/08/subreddits.png" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
+
       </div>
     </div>
   </div>

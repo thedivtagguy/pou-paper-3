@@ -16,10 +16,9 @@
             There are many different types of posts that users can make on Reddit. These include text posts, link posts, image posts, and video posts. There is also a voting system in place so that users can upvote or downvote posts and comments. The most upvoted content rises to the top, while the most downvoted content sinks to the bottom.
                 </p>      
       </div>
-      <div class="grid grid-cols-2 grid-rows-2 gap-4 ">
-        <img src="https://c.tenor.com/xOiLHimKDikAAAAC/upvote-reddit.gif" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
-        <img src="https://preview.redd.it/idk4xqlkq7g01.jpg?auto=webp&s=bd4895ac081495f7b7f0addabb59a38562dffa4b" alt="Top down view of walnut card tray with embedded magnets and card groove." class="bg-gray-100 rounded-lg">
-        <img src="https://www.online-tech-tips.com/wp-content/uploads/2020/10/Reddit-Popular-Post-Example.png" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg">
+      <div>
+        <img src="/assets/discussion.jpg" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg">
+        
       </div>
     </div>
   </div>
